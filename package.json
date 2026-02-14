@@ -1,4 +1,13 @@
 {
+  "name": "你的项目名",
+  "version": "1.0.0",
+  "engines": {
+    "node": "16.x",
+    "npm": "8.x"
+  },
+  // ... 后面的内容保持不变
+}
+{
   "private": true,
   "scripts": {
     "prod": "gulp --production",
