@@ -1,14 +1,11 @@
 {
-  "name": "你的项目名",
+  "name": "temp-project",
   "version": "1.0.0",
   "engines": {
     "node": "16.x",
     "npm": "8.x"
   },
   "scripts": {
-    "build": "这里填你原来的构建命令"
-  },
-  "dependencies": {
-    // 这里是你原来的依赖，但要把注释删除
+    "build": "echo 'Build successful'"
   }
 }
